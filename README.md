@@ -6,7 +6,7 @@ You can contact me at Miningpro362#4325 on discord, @miningpro362 on twitter, Mi
 
 If you wanna play games, dm me on discord or add me on steam, I'm down for it!
 
-I'm an age regressor, and as such there might be some projects here that are made for/with in mind age regressors, their cargivers, and just generally the people who love them
+I'm an age regressor, and as such there might be some projects here that are made for/with in mind age regressors, their caregivers, and just generally the people who love them
 
 I may also put stuff here for systems (the collections of people that are due to personality disorders and the like), and definitely for furries.
 
