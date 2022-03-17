@@ -1,4 +1,4 @@
-Hey! I'm Nicky! I do random bulls--t with computers, including code and mess around with linux.
+Hey! I'm Nicky! I do random nonsense with computers, including code and mess around with linux.
 
 I mainly use Javascript with Node.js 14.17.0, Lua in Computercraft, specifically CC:Tweaked, and also some HTML/CSS/JS stuff.
 
