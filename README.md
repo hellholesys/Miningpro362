@@ -1,13 +1,11 @@
 Hey! I'm Nicky! I do random nonsense with computers, including code and mess around with linux.
 
-I mainly use Javascript with Node.js 14.17.0, Lua in Computercraft, specifically CC:Tweaked, and also some HTML/CSS/JS stuff.
+I mainly use Javascript with Node.js or Deno, Typescript in Deno, Lua in Computercraft, specifically CC:Tweaked, and also some HTML/CSS/JS stuff.
 
-You can contact me at Miningpro362#8355 on discord, miningpro362@hmm.st on xmpp, @miningpro362:halogen.city on matrix ,Miningpro362 on Steam, and the same pretty much anywhere else I am!
+You can contact me (and the rest of my system) at `the hellhole system#7370` on discord, `@hellholesys:nightshade.fun` on matrix, Miningpro362 on Steam, and either name on whatever other services we're at. An ever-growing list of our socials and services is available on [our linktree](https://linktr.ee/hellholesys).
 
-If you wanna play games, dm me on discord or add me on steam, I'm down for it!
+If you wanna play games, dm me on discord or add me on steam, we're down for it!
 
 I'm an age regressor, and as such there might be some projects here that are made for/with in mind age regressors, their caregivers, and just generally the people who love them
 
-I may also put stuff here for plural folk (people, and definitely for furries.
-
-I also am a furry myself.
+I will also put stuff here for plural folk (folks with more than two distinct or semi-distinct entities in their mind, read [this](https://morethanone.info) for more info), for example forks of discord bots and such
